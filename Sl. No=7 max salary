@@ -1,0 +1,3 @@
+SELECT MAX(salary)
+FROM employees
+WHERE department_id = *your_department_id*;
